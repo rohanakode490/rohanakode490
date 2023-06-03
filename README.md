@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohanakode7" target="blank"><img src="https://img.shields.io/twitter/follow/rohanakode7?logo=twitter&style=for-the-badge" alt="rohanakode7" /></a> </p>
 
-- I’m currently confident in **Front-End Development**
+- I’m confident in **Front-End Development**
 
 - I’m currently learning **Back-End Development**
 
