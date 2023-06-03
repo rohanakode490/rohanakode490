@@ -75,4 +75,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanakode490&show_icons=true&locale=en&theme=vision-friendly-dark" alt="rohanakode490" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanakode490&theme=dark" alt="rohanakode490" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanakode490&theme=vision-friendly-dark" alt="rohanakode490" /></p>
